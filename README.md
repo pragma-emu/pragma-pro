@@ -6,6 +6,14 @@ We are creating a **new ARM recompiler** so development of pragma is shifting to
 
 Switch 2 emulator and sequel to original pragma
 
+## Third party libraries
+
+pragma-pro uses third party libraries such as:
+
+- fmt(MIT licensed)
+
+More third party libraries will be added in the future.
+
 ## License 
 
 pragma-pro is licensed by the [GNU General Public License, Version 2.0](LICENSE)
