@@ -1,6 +1,6 @@
 # NOTE
 
-We are creating a **new ARM recompiler** so development of pragma is shifting to the new ARM recompiler.
+We are creating a **new ARM recompiler** so development of pragma-pro is shifting to the new ARM recompiler.
 
 # pragma-pro
 
@@ -10,7 +10,7 @@ Switch 2 emulator and sequel to original pragma
 
 pragma-pro uses third party libraries such as:
 
-- fmt(MIT licensed)
+- fmt (MIT licensed)
 
 More third party libraries will be added in the future.
 
