@@ -1,6 +1,6 @@
 # NOTE
 
-We are creating a **new ARM recompiler** so development of pragma-pro is shifting to the new ARM recompiler.
+We are creating a **new ARM recompiler** so development of pragma-pro is shifting to the new ARM recompiler. And no our fok of dynarmic <a href="https://github.com/pragma-emu/dynarmix">(Dynarmix)</a> is not the recompiler.
 
 # pragma-pro
 
